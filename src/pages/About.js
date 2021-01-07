@@ -3,6 +3,7 @@ import "../App.css";
 import { FaGithubAlt } from "react-icons/fa";
 import {FaLinkedinIn} from "react-icons/fa" ;
 import {FaFacebookF} from "react-icons/fa" ;
+import {FaFacebook} from "react-icons/fa" ;
 import Dp from "../img/21.jpg"
 
 function About() {
@@ -21,11 +22,11 @@ function About() {
       <h2>About</h2>
       <br />
       <a href="https://www.facebook.com/jawad.amin.35/" target="_blank">
-       <li>Details about me can be found in my </li> 
-       <h1><FaFacebookF/></h1>
+       
+       <h1><FaFacebook/>ollow me</h1>
         <img
           height="50"
-          src="https://scontent.fdac83-1.fna.fbcdn.net/v/t1.0-9/91340144_2937288722981582_480469371404156928_n.jpg?_nc_cat=104&ccb=2&_nc_sid=8bfeb9&_nc_ohc=7s6Ss7IatM0AX-OPa7-&_nc_ht=scontent.fdac83-1.fna&oh=e0ab3b5cb9ce674f0093241e8e76735e&oe=601B54A8"
+          src="https://scontent.fdac83-1.fna.fbcdn.net/v/t1.0-9/137254995_10208190417273383_4329521233332263464_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=gfnlPmSMlbEAX9ybfEm&_nc_ht=scontent.fdac83-1.fna&oh=7e54aef5d3749c0182dbf673cdf9fbc7&oe=601E6BD5"
           border="0"
           
         />

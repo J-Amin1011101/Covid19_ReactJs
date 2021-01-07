@@ -4,7 +4,7 @@ This project is built by using-
 3. npm
 4. javascript
 5. html
-6. react-bootstrap
+6. react-bootstrap(grid+icons)
 7. covid API
 8. Google map API;
 run it on localhost port 3000

@@ -6,6 +6,6 @@ This project is built by using-
 5. html
 6. react-bootstrap
 7. covid API
-8. Google map API
+8. Google map API;
 run it on localhost port 3000
 # Covid19_ReactJs
